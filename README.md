@@ -1,4 +1,4 @@
-✨ Auto Clicker with Custom Target Panel
+✨ Auto Clicker in Roblox with Custom Target Panel
 A stable auto clicker with adjustable CPS and a draggable custom target panel, designed for both PC and mobile devices. Built with a clean UI and reliable performance, this tool focuses on precise UI-based clicking without interfering with character movement or gameplay mechanics.
 
 ---
