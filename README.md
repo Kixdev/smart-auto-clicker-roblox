@@ -26,9 +26,9 @@ A stable auto clicker with adjustable CPS and a draggable custom target panel, d
 ---
 
 🎮 Keyboard & UI Controls
-- **Ctrl + X** — Toggle auto click ON / OFF.
+- **Ctrl + X** - Toggle auto click ON / OFF.
 - Clickable status label for quick toggling.
-- **Comma (,)** — Instantly hide or show the entire UI.
+- **Comma (,)** - Instantly hide or show the entire UI.
 
 ---
 
